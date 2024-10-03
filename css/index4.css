@@ -1,0 +1,44 @@
+body{
+    width: 1500px;
+    height: 1350px;    
+    }
+    header{
+        width: auto;
+        height: 10%;
+        background-color: red;
+    }
+main{
+    width: auto;
+    height: 90%;
+    display: flex;
+}
+.gauche,.droite{
+    width: 20%;
+    height: 100%;
+    background-color: blue;
+}
+.milieu{
+    width: 60%;
+    height: 100%;
+    
+    
+}
+.pz{
+    background-color: green;
+    width: 100%;
+    height: 90%;    
+    color: white;
+    display: flex;
+}
+.Z{
+    width: 20%;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color: gold;
+    height: 10%;
+    width: 100%;
+}

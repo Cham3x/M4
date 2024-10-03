@@ -1,0 +1,32 @@
+body{
+    width: 1500px;
+    height: 1350px;
+    
+    }
+    header{
+        height: 15%;
+    }
+    .haut{
+        width: auto;
+        height: 80%;
+        background-color: cadetblue;
+    }
+    .menu{
+        width: auto;
+        height: 20%;
+        background-color: blueviolet;
+    }
+    .milieu{
+        width: auto;
+        height: 70%;
+        background-color: gold;
+        margin: 5%;
+    }
+    .bas{
+        width: auto;
+        height: 100%;
+        background-color: cadetblue;
+    }
+    footer{
+        height: 15%;
+    }
